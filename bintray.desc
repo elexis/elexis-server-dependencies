@@ -13,9 +13,9 @@
 		"name": "0.1"
 	},
 
-	"files": [{
-		"includePattern": "target/repository/(.*)",
-		"uploadPattern": "p2/$2"
-	}],
+	"files": [
+		{"includePattern": "target/repository/(.*)","uploadPattern": "p2/$1"},
+		{"includePattern": "target/repository/plugins/(.*)","uploadPattern": "p2/plugins/$1"}
+	],
 	"publish": true
 }

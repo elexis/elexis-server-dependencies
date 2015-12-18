@@ -17,6 +17,8 @@
             <configuration>
               <artifacts>
 		<artifact><source>true</source><id>com.mashape.unirest:unirest-java:1.4.7</id></artifact>
+		<artifact><source>true</source><id>com.eclipsesource.
+  restfuse:com.restfuse:1.2.0</id></artifact>
               </artifacts>
             </configuration>
           </execution>

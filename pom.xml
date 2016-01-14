@@ -18,7 +18,6 @@
               <artifacts>
 		<artifact><source>true</source><id>com.mashape.unirest:unirest-java:1.4.7</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-core:jar:1.2.4</id></artifact>
-		<artifact><source>true</source><id>org.apache.shiro:shiro-features:jar:1.2.4</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-web:jar:1.2.4</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-aspectj:jar:1.2.4</id></artifact>
               </artifacts>

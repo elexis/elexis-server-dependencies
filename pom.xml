@@ -21,6 +21,9 @@
 		<artifact><source>true</source><id>org.apache.shiro:shiro-web:jar:1.2.4</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-aspectj:jar:1.2.4</id></artifact>
 		<artifact><source>true</source><id>org.apache.commons:commons-collections4:jar:4.1</id></artifact>
+		<artifact><source>true</source><id>ch.qos.logback:logback-classic:jar:1.1.3</id></artifact>
+		<artifact><source>true</source><id>ch.qos.logback:logback-core:jar:1.1.3</id></artifact>
+		<artifact><source>true</source><id>ch.qos.logback:logback-access:jar:1.1.3</id></artifact>
               </artifacts>
             </configuration>
           </execution>

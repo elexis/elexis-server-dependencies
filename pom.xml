@@ -24,6 +24,7 @@
 		<artifact><source>true</source><id>ch.qos.logback:logback-classic:jar:1.1.3</id></artifact>
 		<artifact><source>true</source><id>ch.qos.logback:logback-core:jar:1.1.3</id></artifact>
 		<artifact><source>true</source><id>ch.qos.logback:logback-access:jar:1.1.3</id></artifact>
+		<artifact><source>true</source><id>com.google.guava:guava:18.0</id></artifact>
 		<artifact><source>true</source><id>se.ugli.bigqueue:bigqueue:1.6.0.0</id></artifact>
               </artifacts>
             </configuration>

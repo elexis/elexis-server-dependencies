@@ -27,6 +27,7 @@
 		<artifact><source>true</source><id>com.google.guava:guava:18.0</id></artifact>
 		<artifact><source>true</source><id>se.ugli.bigqueue:bigqueue:1.6.0.0</id></artifact>
 		<artifact><source>true</source><id>mysql:mysql-connector-java:5.1.38</id></artifact>
+		<artifact><source>true</source><id>commons-configuration:commons-configuration:1.10</id></artifact>
               </artifacts>
             </configuration>
           </execution>

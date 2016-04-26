@@ -31,6 +31,7 @@
 		<artifact><source>true</source><id>org.apache.commons:commons-configuration2:2.0</id></artifact>
 		<artifact><source>true</source><id>com.sun.mail:javax.mail:1.5.5</id></artifact>
 		<artifact><source>true</source><id>org.joda:joda-money:0.11</id></artifact>
+		<artifact><source>true</source><id>org.graylog2:gelfj:1.1.15</id></artifact>
               </artifacts>
             </configuration>
           </execution>

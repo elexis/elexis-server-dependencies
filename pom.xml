@@ -32,6 +32,8 @@
 		<artifact><source>true</source><id>com.sun.mail:javax.mail:1.5.5</id></artifact>
 		<artifact><source>true</source><id>org.joda:joda-money:0.11</id></artifact>
 		<artifact><source>true</source><id>org.graylog2:gelfj:1.1.15</id></artifact>
+		<artifact><source>true</source><id>com.rabbitmq:amqp-client:3.0.4</id></artifact>
+		<artifact><source>true</source><id>com.googlecode.json-simple:json-simple:1.1</id></artifact>
               </artifacts>
             </configuration>
           </execution>

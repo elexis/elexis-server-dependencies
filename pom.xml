@@ -35,6 +35,8 @@
 		<artifact><source>true</source><id>com.rabbitmq:amqp-client:3.0.4</id></artifact>
 		<artifact><source>true</source><id>com.googlecode.json-simple:json-simple:1.1</id></artifact>
 		<artifact><source>true</source><id>com.fasterxml.jackson.core:jackson-databind:2.3.0</id></artifact>
+		<artifact><source>true</source><id>ca.uhn.hapi.fhir:hapi-fhir-osgi-core:jar:1.5</id></artifact>
+		<artifact><source>true</source><id>org.thymeleaf:thymeleaf:jar:2.1.4</id></artifact>
               </artifacts>
             </configuration>
           </execution>

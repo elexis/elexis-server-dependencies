@@ -35,9 +35,9 @@
 		<artifact><source>true</source><id>com.rabbitmq:amqp-client:3.0.4</id></artifact>
 		<artifact><source>true</source><id>com.googlecode.json-simple:json-simple:1.1</id></artifact>
 		<artifact><source>true</source><id>com.fasterxml.jackson.core:jackson-databind:2.3.0</id></artifact>
-		<artifact><source>true</source><id>ca.uhn.hapi.fhir:hapi-fhir-osgi-core:jar:1.6</id></artifact>
+		<artifact><source>true</source><id>ca.uhn.hapi.fhir:hapi-fhir-osgi-core:jar:2.0</id></artifact>
 		<artifact><source>false</source><override>true</override><id>net.sf.saxon:Saxon-HE:jar:9.6.0-4</id></artifact>
-		<artifact><source>true</source><id>org.thymeleaf:thymeleaf:jar:3.0.0.RELEASE</id></artifact>
+		<artifact><source>true</source><id>org.thymeleaf:thymeleaf:jar:3.0.1.RELEASE</id></artifact>
 		<artifact><source>true</source><id>com.fasterxml.woodstox:woodstox-core:jar:5.0.2</id></artifact>
 		<artifact><source>true</source><id>org.slf4j:slf4j-api:1.7.21</id></artifact>
 		<artifact><source>true</source><id>org.slf4j:slf4j-log4j12:1.7.21</id></artifact>

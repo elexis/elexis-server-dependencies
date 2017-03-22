@@ -51,6 +51,7 @@
 		<artifact><source>true</source><id>com.auth0:java-jwt:jar:3.1.0</id></artifact>
 		<artifact><source>true</source><id>org.slf4j:osgi-over-slf4j:jar:1.7.2</id></artifact>
 		<artifact><source>true</source><id>io.rest-assured:rest-assured:jar:3.0.2</id></artifact>
+		<artifact><source>true</source><id>org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:jar:9.3.9.v20160517</id></artifact>
               </artifacts>
             </configuration>
           </execution>

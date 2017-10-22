@@ -23,6 +23,7 @@
 		<artifact><source>true</source><id>org.apache.shiro:shiro-ehcache:jar:1.3.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro.tools:shiro-tools-hasher:jar:1.3.2</id></artifact>
 		<artifact><source>true</source><id>org.secnod.shiro:shiro-jersey:jar:0.2.0</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro:shiro-all:jar:1.4.0</id></artifact>
 		<artifact><source>true</source><id>org.apache.commons:commons-collections4:jar:4.1</id></artifact>
 		<artifact><source>true</source><id>ch.qos.logback:logback-classic:jar:1.1.3</id></artifact>
 		<artifact><source>true</source><id>ch.qos.logback:logback-core:jar:1.1.3</id></artifact>

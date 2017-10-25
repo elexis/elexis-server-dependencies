@@ -17,6 +17,12 @@
             <configuration>
               <artifacts>
 		<artifact><source>true</source><id>com.mashape.unirest:unirest-java:1.4.7</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro:shiro-core:jar:1.3.2</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro:shiro-web:jar:1.3.2</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro:shiro-aspectj:jar:1.3.2</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro:shiro-ehcache:jar:1.3.2</id></artifact>
+		<artifact><source>true</source><id>org.apache.shiro.tools:shiro-tools-hasher:jar:1.3.2</id></artifact>
+		<artifact><source>true</source><id>org.secnod.shiro:shiro-jaxrs:jar:1.3.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-core:jar:1.4.0</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-web:jar:1.4.0</id></artifact>
 		<artifact><source>true</source><id>org.apache.shiro:shiro-aspectj:jar:1.4.0</id></artifact>

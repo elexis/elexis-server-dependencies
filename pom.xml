@@ -73,7 +73,9 @@
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver:jar:1.0.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.httpclient4:jar:1.0.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.resourceserver-filter:jar:1.0.2</id></artifact>
-	      </artifacts>
+	      	<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.jwt:jar:1.0.3</id></artifact>
+		 <artifact><source>true</source><id>com.healthmarketscience.jackcess:jackcess:jar:2.1.9</id></artifact>
+	       </artifacts>
             </configuration>
           </execution>
         </executions>

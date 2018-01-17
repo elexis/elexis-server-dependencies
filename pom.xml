@@ -77,7 +77,10 @@
 	        <artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.common:jar:1.0.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.server:jar:1.0.2</id></artifact>
 	        <artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.dynamicreg.client:jar:1.0.2</id></artifact>
-		 <artifact><source>true</source><id>com.healthmarketscience.jackcess:jackcess:jar:2.1.9</id></artifact>
+		<artifact><source>true</source><id>com.healthmarketscience.jackcess:jackcess:jar:2.1.9</id></artifact>
+		<artifact><source>true</source><id>org.mitre:openid-connect-common:jar:1.3.1</id></artifact>
+		<artifact><source>true</source><id>org.mitre:openid-connect-server:jar:1.3.1</id></artifact>
+		<artifact><source>true</source><id>org.mitre:openid-connect-client:jar:1.3.1</id></artifact>
 	       </artifacts>
             </configuration>
           </execution>

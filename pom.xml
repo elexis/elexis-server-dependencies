@@ -81,6 +81,7 @@
 		<artifact><source>true</source><id>org.mitre:openid-connect-common:jar:1.3.1</id></artifact>
 		<artifact><source>true</source><id>org.mitre:openid-connect-server:jar:1.3.1</id></artifact>
 		<artifact><source>true</source><id>org.mitre:openid-connect-client:jar:1.3.1</id></artifact>
+		<artifact><source>true</source><id>org.mitre:openid-connect-server-webapp:jar:1.3.1</id></artifact>
 	       </artifacts>
             </configuration>
           </execution>

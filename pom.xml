@@ -68,6 +68,7 @@
 		<artifact><source>true</source><id>org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.2</id></artifact>
 		<artifact><source>true</source><id>org.exparity:hamcrest-date:2.0.4</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty:apache-jsp:jar:9.3.9.v20160517</id></artifact>
+		<artifact><source>true</source><id>org.apache.taglibs:taglibs-standard-spec:jar:1.2.5</id></artifact>
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.common:jar:1.0.2</id></artifact>
                 <artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.client:jar:1.0.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.oltu.oauth2:org.apache.oltu.oauth2.authzserver:jar:1.0.2</id></artifact>

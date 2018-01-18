@@ -88,6 +88,8 @@
 		<artifact><source>true</source><id>org.mitre:openid-connect-common:jar:1.3.1</id></artifact>
 		<artifact><source>true</source><id>org.mitre:openid-connect-server:jar:1.3.1</id></artifact>
 		<artifact><source>true</source><id>org.mitre:openid-connect-client:jar:1.3.1</id></artifact>
+		      <artifact><source>true</source><id>org.ow2.asm:asm-commons:jar:5.0.1</id></artifact>
+		      <artifact><source>true</source><id>org.ow2.asm:asm-tree:jar:5.0.1</id></artifact>
 	       </artifacts>
             </configuration>
           </execution>

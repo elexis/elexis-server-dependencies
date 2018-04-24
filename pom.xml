@@ -94,6 +94,7 @@
 		<artifact><source>true</source><id>org.ow2.asm:asm-tree:jar:5.0.1</id></artifact>
 		<artifact><source>true</source><id>com.squareup.okhttp3:okhttp:jar:3.10.0</id></artifact>
 		<artifact><source>true</source><id>org.jboss.aerogear:aerogear-otp-java:jar:1.0.0</id></artifact>
+		<artifact><source>true</source><id>com.google.zxing:core:jar:3.3.2</id></artifact>
 	       </artifacts>
             </configuration>
           </execution>

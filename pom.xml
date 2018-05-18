@@ -65,11 +65,13 @@
 		<artifact><source>true</source><id>io.rest-assured:rest-assured:jar:3.0.2</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:jar:9.3.9.v20160517</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:jar:9.4.8.v20171121</id></artifact>
+		<artifact><source>true</source><id>org.eclipse.jetty.osgi:jetty-osgi-boot-jsp:jar:9.4.10.v20180503</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty:jetty-servlets:jar:9.2.13.v20150730</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.web:javax.servlet.jsp.jstl:jar:1.2.5-b03</id></artifact>
 		<artifact><source>true</source><id>org.exparity:hamcrest-date:2.0.4</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty:apache-jsp:jar:9.3.9.v20160517</id></artifact>
 		<artifact><source>true</source><id>org.eclipse.jetty:apache-jsp:jar:9.4.8.v20171121</id></artifact>
+		<artifact><source>true</source><id>org.eclipse.jetty:apache-jsp:jar:9.4.10.v20180503</id></artifact>
 		<artifact><source>true</source><id>org.apache.taglibs:taglibs-standard-spec:jar:1.2.5</id></artifact>
 		<artifact><source>true</source><id>org.apache.taglibs:taglibs-standard-impl:jar:1.2.5</id></artifact>
 		<artifact><source>true</source><id>org.apache.aries.spifly:org.apache.aries.spifly.core-internal:jar:1.0.10</id></artifact>

@@ -37,9 +37,8 @@
 		<artifact><source>true</source><id>ch.qos.logback:logback-access:jar:1.0.13</id></artifact>
 		<artifact><source>true</source><id>com.google.guava:guava:18.0</id></artifact>
 		<artifact><source>true</source><id>se.ugli.bigqueue:bigqueue:1.6.0.0</id></artifact>
-		<artifact><source>true</source><id>mysql:mysql-connector-java:5.1.40</id></artifact>
-		<artifact><source>true</source><id>mysql:mysql-connector-java:5.1.39</id></artifact>
-		<artifact><source>true</source><id>mysql:mysql-connector-java:5.1.38</id></artifact>
+		<artifact><source>true</source><id>mysql:mysql-connector-java:5.1.47</id></artifact>
+		<artifact><source>true</source><id>org.postgresql:postgresql:42.2.5</id></artifact>
 		<artifact><source>true</source><id>commons-beanutils:commons-beanutils:1.9.2</id></artifact>
 		<artifact><source>true</source><id>org.apache.commons:commons-configuration2:2.0</id></artifact>
 		<artifact><source>true</source><id>com.sun.mail:javax.mail:1.5.5</id></artifact>

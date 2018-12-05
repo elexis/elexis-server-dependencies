@@ -19,7 +19,7 @@
 		      <!-- Java 11 -->
 		<artifact><source>true</source><id>com.sun.activation:javax.activation:1.2.0</id></artifact>
 		<artifact><source>true</source><id>javax.xml.bind:jaxb-api:2.3.1</id></artifact>
-		<artifact><source>true</source><id>com.sun.xml.bind:jaxb-core:2.3.1</id></artifact>
+		<artifact><source>true</source><id>com.sun.xml.bind:jaxb-core:2.3.0.1</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.bind:jaxb-impl:2.3.1</id></artifact>
 		      <!-- End Java 11 -->
 		<artifact><source>true</source><id>com.mashape.unirest:unirest-java:1.4.7</id></artifact>

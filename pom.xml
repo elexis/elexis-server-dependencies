@@ -122,6 +122,9 @@
                 <artifact><source>true</source><id>ca.uhn.hapi:hapi-structures-v25:2.3</id></artifact>
                 <artifact><source>true</source><id>ca.uhn.hapi:hapi-structures-v251:2.3</id></artifact>
                 <artifact><source>true</source><id>ca.uhn.hapi:hapi-structures-v26:2.3</id></artifact>
+		<!-- Elexis -->
+		<artifact><source>true</source><id>org.apache.commons:commons-dbcp2:2.5.0</id></artifact>
+		<!-- -->
 	       </artifacts>
             </configuration>
           </execution>

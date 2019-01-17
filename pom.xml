@@ -124,6 +124,9 @@
                 <artifact><source>true</source><id>ca.uhn.hapi:hapi-structures-v26:2.3</id></artifact>
 		<!-- Elexis -->
 		<artifact><source>true</source><id>org.apache.commons:commons-dbcp2:2.5.0</id></artifact>
+		<!-- Elexis Java 11 -->
+		<artifact><source>true</source><id>javax.enterprise:cdi-api:2.0.SP1</id></artifact>
+		<artifact><source>true</source><id>javax.interceptor:javax.interceptor-api:1.2.2</id></artifact>
 		<!-- -->
 	       </artifacts>
             </configuration>

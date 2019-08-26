@@ -28,6 +28,7 @@
 		<artifact><source>true</source><id>javax.xml.soap:javax.xml.soap-api:1.4.0</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.ws:jaxws-rt:2.3.2</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.ws:rt:2.3.2</id></artifact>
+		<artifact><source>true</source><id>javax.jws:javax.jws-api:1.1</id></artifact>
 		      <!-- End Java 11 -->
 		<artifact><source>true</source><id>com.google.code.gson:gson:2.8.5</id></artifact>
 		<artifact><source>true</source><id>org.bouncycastle:bcprov-jdk15on:1.61</id></artifact>

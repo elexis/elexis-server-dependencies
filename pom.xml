@@ -27,6 +27,7 @@
 		<artifact><source>true</source><id>javax.xml.ws:jaxws-api:2.3.1</id></artifact>
 		<artifact><source>true</source><id>javax.xml.soap:javax.xml.soap-api:1.4.0</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.ws:jaxws-rt:2.3.2</id></artifact>
+		<artifact><source>true</source><id>com.sun.org.apache.xml.internal:resolver:20050927</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.ws:rt:2.3.2</id></artifact>
 		<artifact><source>true</source><id>javax.jws:javax.jws-api:1.1</id></artifact>
 		      <!-- End Java 11 -->

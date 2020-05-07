@@ -16,7 +16,7 @@
             <id>default-cli</id>
             <configuration>
               <artifacts>
-		<artifact><source>true</source><id>javax.mail:javax.mail:1.4.0.v201005080615</id></artifact>
+		<artifact><source>true</source><id>com.sun.mail:javax.mail:1.6.2</id></artifact>
 		      <!-- Java 11 -->
 		<artifact><source>true</source><id>com.sun.activation:javax.activation:1.2.0</id></artifact>
 		<artifact><source>true</source><id>javax.xml.bind:jaxb-api:2.4.0-b180830.0359</id></artifact>

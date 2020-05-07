@@ -32,6 +32,7 @@
 		<artifact><source>true</source><id>com.sun.org.apache.xml.internal:resolver:20050927</id></artifact>
 		<artifact><source>true</source><id>com.sun.xml.ws:rt:2.3.2</id></artifact>
 		<artifact><source>true</source><id>javax.jws:javax.jws-api:1.1</id></artifact>
+		<artifact><source>true</source><id>org.glassfish.metro:webservices-osgi:2.4.4</id></artifact>
 		      <!-- End Java 11 -->
 		<artifact><source>true</source><id>org.keycloak:keycloak-admin-client:8.0.1</id></artifact>
 		<artifact><source>true</source><id>org.keycloak:keycloak-servlet-filter-adapter:8.0.1</id></artifact>

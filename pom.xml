@@ -35,6 +35,8 @@
 		<artifact><source>true</source><id>jakarta.xml.rpc:jakarta.xml.rpc-api:1.1.4</id></artifact>
 		<artifact><source>true</source><id>jakarta.resource:jakarta.resource-api:1.7.4</id></artifact>
 		<artifact><source>true</source><id>jakarta.servlet:jakarta.servlet-api:4.0.3</id></artifact>
+		<artifact><source>true</source><id>com.fasterxml.woodstox:woodstox-core:5.1.0</id></artifact>
+		<artifact><source>true</source><id>org.glassfish.grizzly:grizzly-core:2.4.4</id></artifact>
 		      <!-- End Java 11 -->
 		<artifact><source>true</source><id>org.keycloak:keycloak-admin-client:8.0.1</id></artifact>
 		<artifact><source>true</source><id>org.keycloak:keycloak-servlet-filter-adapter:8.0.1</id></artifact>

@@ -40,10 +40,10 @@
 		      <!-- End Java 11 -->
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-client:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-server:2.29.1</id></artifact>
-		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-container-servlet:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-media-sse:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-media-multipart:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-mvc:2.29.1</id></artifact>
+		<artifact><source>true</source><id>org.glassfish.jersey.containers:jersey-container-servlet:2.29.1</id></artifact>
 			  <!-- End replacement com.eclipsesource.jaxrs.jersey.all.nojavax -->
 		<artifact><source>true</source><id>org.keycloak:keycloak-admin-client:8.0.1</id></artifact>
 		<artifact><source>true</source><id>org.keycloak:keycloak-servlet-filter-adapter:8.0.1</id></artifact>

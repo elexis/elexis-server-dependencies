@@ -38,13 +38,14 @@
 		<artifact><source>true</source><id>com.fasterxml.woodstox:woodstox-core:5.1.0</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.grizzly:grizzly-core:2.4.4</id></artifact>
 		      <!-- End Java 11 -->
-		<artifact><source>true</source><id>javax.ws.rs:javax.ws.rs-api:2.1</id></artifact>
+		<artifact><source>true</source><id>javax.ws.rs:javax.ws.rs-api:2.0</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-client:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.core:jersey-server:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.media:jersey-media-sse:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.media:jersey-media-multipart:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.ext:jersey-mvc:2.29.1</id></artifact>
 		<artifact><source>true</source><id>org.glassfish.jersey.containers:jersey-container-servlet:2.29.1</id></artifact>
+		<artifact><source>true</source><id>org.glassfish.jersey.inject:jersey-hk2:2.29.1</id></artifact>
 			  <!-- End replacement com.eclipsesource.jaxrs.jersey.all.nojavax -->
 		<artifact><source>true</source><id>org.keycloak:keycloak-admin-client:8.0.1</id></artifact>
 		<artifact><source>true</source><id>org.keycloak:keycloak-servlet-filter-adapter:8.0.1</id></artifact>
